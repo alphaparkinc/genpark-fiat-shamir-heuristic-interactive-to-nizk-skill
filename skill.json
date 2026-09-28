@@ -1,0 +1,20 @@
+{
+  "name": "genpark-fiat-shamir-heuristic-interactive-to-nizk-skill",
+  "version": "1.0.0",
+  "description": "Fiat-Shamir heuristic transformation converting interactive proof transcripts into non-interactive zero-knowledge arguments",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "fiat-shamir",
+    "nizk",
+    "non-interactive-proofs",
+    "random-oracle",
+    "zero-knowledge",
+    "python-standard-library",
+    "agent-skills",
+    "cryptography",
+    "zk-protocols",
+    "transcript-hash"
+  ]
+}
